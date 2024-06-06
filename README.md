@@ -1,0 +1,1 @@
+Proyek ini bertujuan untuk menginterpolasi data hasil pengukuran hubungan antara tegangan yang diberikan pada baja tahan karat dan waktu yang diperlukan hingga baja tersebut patah. Dua metode interpolasi polinomial digunakan dalam proyek ini: polinom Lagrange dan polinom Newton.
